@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+    color: blue;
+}
+
+.aaa{
+	background-color: gray;
+	text-align: center;
+	margin: 12px;
+}
+ h1{
+    color: black;
+}
+ p{
+    font-family: Arial, sans-serif;
+    color: black;
+}
